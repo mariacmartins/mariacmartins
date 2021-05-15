@@ -6,16 +6,13 @@ Sou uma **biotecnologista/bioinformata** apaixonada por ciência e tecnologia.
 Estou sempre olhando para as coisas e tentando achar um jeito de otimizá-las.
 
 ### 😄💻 Linguagens e tecnologias que me brilham os olhos:
-- Python
-- Inteligência Artificial e Machine Learning
-- Visão Computacional
-- SQL
+- Python, Inteligência Artificial e Machine Learning, Visão Computacional e SQL.
 
 ### 🔎💻 Linguagens e tecnologias que estudo por curiosidade:
-- Javascript e Typescript
-- React
-- Django
-- Node
+- Javascript, React, Django e Node.
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariacmartins)](https://github.com/mariacmartins/github-readme-stats)
+
 
 ### 💬 Se quiser falar comigo pelo Linkedin: 
   <a href="https://www.linkedin.com/in/maria-clara-martins-ferreira-b059b4145/" alt="Linkedin">
