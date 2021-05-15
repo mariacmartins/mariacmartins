@@ -11,8 +11,7 @@ Estou sempre olhando para as coisas e tentando achar um jeito de otimizá-las.
 ### 🔎💻 Linguagens e tecnologias que estudo por curiosidade:
 - Javascript, React, Django e Node.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariacmartins)](https://github.com/mariacmartins/github-readme-stats)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariacmartins)
 
 ### 💬 Se quiser falar comigo pelo Linkedin: 
   <a href="https://www.linkedin.com/in/maria-clara-martins-ferreira-b059b4145/" alt="Linkedin">
