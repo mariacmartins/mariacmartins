@@ -2,5 +2,4 @@
 
 ### Hello! 👋
 
-I'm Maria, I'm passionate about **bioinformatics** and data science.
-I'm always looking at things and trying to find a way to optimize them.
+I'm Maria, I'm passionate about **Bioinformatics** and **Data Science**.
