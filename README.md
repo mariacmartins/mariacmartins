@@ -3,3 +3,6 @@
 ### Hello! 👋
 
 I'm Maria, I'm passionate about **Bioinformatics** and **Data Science**.
+
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=mariacmartins&show_icons=true)
+
